@@ -19,9 +19,10 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          Time to get some food 
+          kama chakula cha mama
         </p> 
-        <span className="glf-button" data-glf-cuid="7a0a7596-11ac-478a-82f2-fc9a224a4757" data-glf-ruid="48a6044b-ad5d-4d4e-bb86-fc54f26e3a70" > See MENU & Order</span>
+        
+        <span className="glf-button" data-glf-cuid="513e0766-7282-4f10-ae31-b56c421db633" data-glf-ruid="81cc6882-d8ee-454e-9fed-988808cd346c" > See MENU & Order</span>
         <Script src="https://www.fbgcdn.com/embedder/js/ewm2.js" strategy="lazyOnload" />
       </main>
 
