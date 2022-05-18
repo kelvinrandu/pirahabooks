@@ -15,11 +15,11 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          MEKO
+          PIRAHA
         </h1>
 
         <p className={styles.description}>
-          Heaven sent food
+          Smell the book
         </p> 
         
         <span className="glf-button" data-glf-cuid="513e0766-7282-4f10-ae31-b56c421db633" data-glf-ruid="81cc6882-d8ee-454e-9fed-988808cd346c" > ORDER </span>
